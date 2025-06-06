@@ -1,19 +1,19 @@
 ID,categoria
-271,Entretenimiento
+271,Película y Animación
 165,Deportes
 397,Deportes
 879,Deportes
 777,Deportes
 491,Deportes
 972,Deportes
-813,Educación y Otros
+813,Entretenimiento
 686,Entretenimiento
 238,Entretenimiento
 802,Educación y Otros
 678,Deportes
 43,Educación y Otros
 593,Educación y Otros
-613,Entretenimiento
+613,Película y Animación
 999,Película y Animación
 590,Educación y Otros
 862,Educación y Otros
@@ -24,9 +24,9 @@ ID,categoria
 749,Deportes
 751,Película y Animación
 814,Película y Animación
-641,Educación y Otros
+641,Entretenimiento
 975,Entretenimiento
-277,Película y Animación
+277,Entretenimiento
 293,Película y Animación
 398,Película y Animación
 423,Película y Animación
@@ -41,20 +41,20 @@ ID,categoria
 477,Película y Animación
 433,Película y Animación
 615,Deportes
-229,Deportes
+229,Película y Animación
 695,Educación y Otros
-66,Educación y Otros
+66,Película y Animación
 917,Película y Animación
 322,Deportes
 938,Educación y Otros
 242,Entretenimiento
 436,Deportes
 934,Educación y Otros
-774,Película y Animación
-354,Película y Animación
+774,Entretenimiento
+354,Entretenimiento
 202,Película y Animación
-735,Educación y Otros
-14,Deportes
+735,Entretenimiento
+14,Entretenimiento
 441,Deportes
 951,Deportes
 761,Educación y Otros
@@ -65,8 +65,8 @@ ID,categoria
 378,Entretenimiento
 431,Educación y Otros
 413,Deportes
-640,Educación y Otros
-363,Película y Animación
+640,Entretenimiento
+363,Educación y Otros
 726,Educación y Otros
 649,Educación y Otros
 604,Educación y Otros
@@ -78,9 +78,9 @@ ID,categoria
 162,Deportes
 447,Entretenimiento
 347,Entretenimiento
-320,Educación y Otros
+320,Entretenimiento
 337,Educación y Otros
-971,Educación y Otros
+971,Entretenimiento
 356,Deportes
 796,Educación y Otros
 113,Educación y Otros
@@ -89,12 +89,12 @@ ID,categoria
 702,Educación y Otros
 514,Educación y Otros
 821,Educación y Otros
-775,Película y Animación
+775,Deportes
 724,Película y Animación
 706,Película y Animación
-687,Educación y Otros
+687,Película y Animación
 190,Educación y Otros
-367,Película y Animación
+367,Educación y Otros
 717,Película y Animación
 49,Película y Animación
 835,Película y Animación
@@ -105,18 +105,18 @@ ID,categoria
 757,Deportes
 723,Deportes
 63,Educación y Otros
-677,Película y Animación
+677,Deportes
 207,Educación y Otros
 572,Educación y Otros
 625,Entretenimiento
-956,Educación y Otros
+956,Entretenimiento
 254,Deportes
 68,Deportes
-175,Educación y Otros
+175,Película y Animación
 407,Deportes
 708,Película y Animación
 210,Educación y Otros
-222,Educación y Otros
+222,Deportes
 316,Educación y Otros
 490,Deportes
 219,Película y Animación
@@ -126,11 +126,11 @@ ID,categoria
 399,Deportes
 298,Educación y Otros
 733,Entretenimiento
-451,Educación y Otros
+451,Entretenimiento
 783,Entretenimiento
 567,Entretenimiento
 770,Película y Animación
-124,Entretenimiento
+124,Película y Animación
 12,Entretenimiento
 56,Entretenimiento
 964,Película y Animación
@@ -141,52 +141,52 @@ ID,categoria
 797,Deportes
 669,Deportes
 955,Deportes
-663,Educación y Otros
-115,Educación y Otros
+663,Entretenimiento
+115,Entretenimiento
 169,Entretenimiento
-741,Educación y Otros
-145,Educación y Otros
+741,Entretenimiento
+145,Entretenimiento
 118,Entretenimiento
 191,Entretenimiento
 915,Educación y Otros
 295,Entretenimiento
-629,Educación y Otros
-683,Educación y Otros
+629,Entretenimiento
+683,Entretenimiento
 351,Entretenimiento
 621,Entretenimiento
 581,Entretenimiento
-429,Educación y Otros
+429,Entretenimiento
 288,Entretenimiento
 985,Entretenimiento
 535,Entretenimiento
-199,Educación y Otros
-270,Educación y Otros
+199,Película y Animación
+270,Película y Animación
 314,Entretenimiento
 157,Entretenimiento
-742,Educación y Otros
+742,Entretenimiento
 913,Entretenimiento
 37,Entretenimiento
 591,Entretenimiento
-89,Educación y Otros
+89,Película y Animación
 328,Entretenimiento
-860,Educación y Otros
+860,Entretenimiento
 825,Entretenimiento
 61,Entretenimiento
 841,Entretenimiento
-350,Educación y Otros
+350,Entretenimiento
 480,Entretenimiento
 705,Entretenimiento
 445,Entretenimiento
 782,Entretenimiento
-805,Educación y Otros
+805,Entretenimiento
 878,Entretenimiento
 550,Educación y Otros
 838,Entretenimiento
 108,Entretenimiento
 791,Entretenimiento
-59,Educación y Otros
+59,Entretenimiento
 853,Deportes
-335,Deportes
+335,Entretenimiento
 232,Educación y Otros
 60,Educación y Otros
 223,Deportes
@@ -194,8 +194,8 @@ ID,categoria
 416,Deportes
 272,Deportes
 8,Deportes
-151,Deportes
+151,Película y Animación
 104,Película y Animación
-83,Entretenimiento
+83,Educación y Otros
 658,Película y Animación
 864,Película y Animación
